@@ -3,7 +3,7 @@
 git-test
 
 git cheat-code
-roel's token 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
+roel's token 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
 git status = status for changes in red
 git restore param = revival
 git clone param = download repo
