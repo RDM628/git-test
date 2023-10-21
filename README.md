@@ -13,3 +13,5 @@ git push = to online file
 git log
 git log --oneline
 my token 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
+
+git fetch origin - to always have recommendation to pull from remote branch
