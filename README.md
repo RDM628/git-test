@@ -12,4 +12,9 @@ git push = to online file
 
 git log
 git log --oneline
-my token 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
+
+mhel's token:
+classic - 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
+new token - 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
+
+git fetch origin - to always have recommendation to pull from remote branch
